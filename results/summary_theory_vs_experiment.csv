@@ -1,13 +1,13 @@
 algorithm_case,theoretical,ratio_min,ratio_max,loglog_slope
-Merge sort (random),O(n log n),2.12,2.21,1.12
-Merge sort (sorted),O(n log n),2.05,2.16,1.08
-Merge sort (reverse),O(n log n),2.03,2.79,1.16
-Quick sort (random),O(n log n),1.79,2.45,1.13
-Quick sort (sorted),O(n^2),3.86,4.76,2.05
-Quick sort (reverse),O(n^2),3.96,4.13,2.02
-Binary search,O(log n),1.09,1.37,0.22
-LCS (random_dna),Theta(n^2),2.44,4.26,1.92
-LCS (identical),Theta(n^2),3.81,4.48,2.07
-LCS (binary_alphabet),Theta(n^2),3.84,5.39,2.08
-BFS (E = 4V),O(V + E),2.19,3.05,1.42
-"BFS (V fixed, E varying)",O(V + E),0.98,2.07,0.92
+Merge sort (random),O(n log n),2.11,2.19,1.1
+Merge sort (sorted),O(n log n),2.01,2.13,1.06
+Merge sort (reverse),O(n log n),2.09,2.12,1.07
+Quick sort (random),O(n log n),2.15,2.19,1.11
+Quick sort (sorted),O(n^2),4.09,4.24,2.06
+Quick sort (reverse),O(n^2),3.99,4.21,2.02
+Binary search,O(log n),1.05,1.09,0.1
+LCS (random_dna),Theta(n^2),4.2,4.39,2.11
+LCS (identical),Theta(n^2),4.12,4.49,2.11
+LCS (binary_alphabet),Theta(n^2),4.22,4.47,2.11
+BFS (E = 4V),O(V + E),2.19,2.54,1.24
+"BFS (V fixed, E varying)",O(V + E),1.36,1.77,0.8
