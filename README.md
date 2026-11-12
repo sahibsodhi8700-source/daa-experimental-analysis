@@ -46,7 +46,7 @@ daa-experimental-analysis/
 Python 3.13 is used in the report (any recent Python 3 works).
 
 ```bash
-git clone https://github.com/<username>/daa-experimental-analysis.git
+git clone https://github.com/sahibsodhi8700-source/daa-experimental-analysis.git
 cd daa-experimental-analysis
 pip install -r requirements.txt
 ```
